@@ -1,42 +1,58 @@
 import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
 
-const Header = ({ siteTitle }) => (
+import Avatar from "./avatar"
+
+const Header = () => (
   <header
     style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
+      padding: `2.175rem 0`,
+      fontFamily: `Montserrat, Helvetica, sans-serif`,
+      fontWeight: 600,
+      letterSpacing: `1px`,
+      textDecoration: `none`,
     }}
   >
-    <div
+    <nav
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        display: `flex`,
+        flexDirection: `row`,
+        justifyContent: `space-between`,
+        textTransform: `uppercase`,
+        fontSize: `0.75rem`,
       }}
     >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
+      <div style={{
+          maxWidth: `150px`,
+          maxHeight: `150px`,
+          minHeight: `25px`,
+          minWidth: `50px`,
+          margin: `0.5rem`
+        }}
+      >
+        <Avatar />
+      </div>
+      <div>
+        <div>
+          Rimthong
+        </div>
+        <div
           style={{
-            color: `white`,
-            textDecoration: `none`,
+            fontSize: `0.5rem`,
+            fontWeight: 300,
           }}
         >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
+          Engineering, leadership & hacking
+        </div>
+      </div>
+      <div>
+        <Link style={{ margin: `1rem`, color: `black` }} to="/">About</Link>
+        <Link style={{ margin: `1rem`, color: `black` }} to="/blog">Blog</Link>
+        <Link style={{ margin: `1rem`, color: `black` }} to="/reading-list">Reading List</Link>
+        <Link style={{ margin: `1rem`, color: `black` }} to="/projects">Projects</Link>
+      </div>
+    </nav>
   </header>
 )
-
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
-}
 
 export default Header
