@@ -104,7 +104,7 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Stay centered: make sure to take care of yourself.
 
 ## Principles
-![Principles](../images/book_principes.jpg)
+![Principles](../images/book_principles.jpg)
 
   - Write down your principles and clarify them. What do you want? What is true? What should you do to achieve 1 in light of 2.
   - Systemize decision making with algorithms.
@@ -143,7 +143,7 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Great leaders start their conversations with WHY, then HOW, then WHAT.
 
 ## Leaders eat last
-![Leaders eat last](../images/leaders_eat_last.jpg)
+![Leaders eat last](../images/book_leaders_eat_last.jpg)
 
   - A team can only effectively face external threats when there are no internal threats (*See team of teams, loonshots*)
   - Leaders need to protect the tribe.
