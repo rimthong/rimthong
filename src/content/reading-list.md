@@ -70,7 +70,7 @@ Increase project skill fit
 ## Team of teams
 ![Team of teams](../images/book_team_of_teams.jpg)
 
-The two main ideas from Team of Teams are that your organization should have a shared consciousness and that it should empower individual contributors to execute, so long as they keep leadership informed. This is something that we implement at Unito using AoRs and asynchronous over communication.
+The two main ideas from Team of Teams are that your organization should have a shared consciousness and that it should empower individual contributors to execute, so long as they keep leadership informed. This is something that we implemented at Unito using AoRs and asynchronous over communication.
 
   - Your team has a shared consciousness. Everyone is empowered to execute.
   - Create shared consciousness at ORG level by sharing information and building trust.
@@ -106,7 +106,7 @@ Radical Candor revolves around the idea of combining caring for people while als
 ## Extreme Ownership & The dichotomy of leadership
 ![Extreme Ownership](../images/book_extreme_ownership.jpg)
 
-  - Take ownership: if things go wrong do not deflect; if an underperformer drags the team down, leader must resolve; leadership is contagious. At Unito, we see this a lot with no finger pointing and fixing the process.
+  - Take ownership: if things go wrong do not deflect; if an underperformer drags the team down, leader must resolve; leadership is contagious.
   - No bad teams, just bad leaders. 
   - Clarity and belief. *See OKRs*
   - Manage your ego
