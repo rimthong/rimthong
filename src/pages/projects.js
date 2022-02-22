@@ -1,11 +1,11 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const Projects = () => (
   <Layout>
-    <SEO title="Projects" />
+    <Seo title="Projects" />
     <h1>Projects</h1>
     <div style={{ marginBottom: `2rem` }}>
       Whenever I'm not working officially, I like to tinker on some project or another. Sometimes they're an itch I just need to scratch, other times they are just silly ideas to test new technologies. Here's whatever I'm working on these days.

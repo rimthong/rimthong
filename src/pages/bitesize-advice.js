@@ -1,11 +1,11 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const BitesizeAdvicePage = () => (
   <Layout>
-    <SEO title="Advice" />
+    <Seo title="Advice" />
     This is where I record whenever I find short, useful advice. Revised periodically to make sure the advice in question is still relevant.
 
     <div>

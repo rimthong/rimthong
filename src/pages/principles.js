@@ -1,11 +1,11 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const PrinciplesPage = () => (
   <Layout>
-    <SEO title="Principles" />
+    <Seo title="Principles" />
     This is where I will document my general principles and philosophies. 
   </Layout>
 )

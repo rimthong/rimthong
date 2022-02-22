@@ -1,8 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import Img from "gatsby-image"
-import SEO from "../components/seo"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import Seo from "../components/seo"
 
 export default function Template({ data }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -10,16 +10,16 @@ export default function Template({ data }) {
   let featuredPic;
 
   if (frontmatter.featuredImage) {
-    featuredPic = frontmatter.featuredImage.childImageSharp.fluid;
+    featuredPic = getImage(frontmatter.featuredImage);
   }
 
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
+      <Seo title={frontmatter.title} />
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
         <div style={{fontSize: `0.75rem`, marginBottom: `0.75rem`}}>Posted on {frontmatter.date}</div>
-        { featuredPic ? <Img fluid={featuredPic} style={{marginBottom: `0.75rem`}}/> : null }
+        { featuredPic ? <GatsbyImage image={featuredPic} style={{marginBottom: `0.75rem`}}/> : null }
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -40,9 +40,7 @@ export const pageQuery = graphql`
         tags
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
           }
         }
       }

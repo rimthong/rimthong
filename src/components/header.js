@@ -23,8 +23,8 @@ const Header = () => (
       }}
     >
       <div style={{
-          maxWidth: `150px`,
-          maxHeight: `150px`,
+          maxWidth: `75px`,
+          maxHeight: `75px`,
           minHeight: `25px`,
           minWidth: `50px`,
           margin: `0.5rem`

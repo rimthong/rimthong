@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const BlogEntry = (entry) => (
   <div
@@ -40,7 +40,7 @@ const BlogPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Blog" />
+      <Seo title="Blog" />
       <h1>Blog</h1>
       { edges.map(BlogEntry) }
     </Layout>

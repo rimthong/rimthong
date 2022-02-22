@@ -60,7 +60,7 @@ Increase project skill fit
   - **Mindset** Analyse why you decided to make that move. What was the process and how can you change it?
 
 ## Culture Code
-![Culture Code](../images/book_culture_code.jpg)
+![Culture Code](../images/book_cover_culture.jpeg)
 
   - Form a safe environment so people are less focused on defending themselves and cooperate instead.
   - Share your shortcomings to show it's ok to make mistakes. 
@@ -68,7 +68,7 @@ Increase project skill fit
 
 
 ## Team of teams
-![Team of teams](../images/book_team_of_teams.jpg)
+![Team of teams](../images/book_team_of_teams.jpeg)
 
 The two main ideas from Team of Teams are that your organization should have a shared consciousness and that it should empower individual contributors to execute, so long as they keep leadership informed. This is something that we implemented at Unito using AoRs and asynchronous over communication.
 
@@ -81,7 +81,7 @@ The two main ideas from Team of Teams are that your organization should have a s
   - Match structure with situation. Be agile when needed, having a chain of command can be heavy when your challenge requires to move fast. See also Conway's Law.
 
 ## Radical Candor
-![Radical Candor](../images/book_radical_candor.jpg)
+![Radical Candor](../images/book_radical_candor.jpeg)
 
 Radical Candor revolves around the idea of combining caring for people while also challenging directly to lead efficiently and with empathy. It touches principles such as feedback (criticize in private, praise in public) and frequency (offering feedback asap is usually more effective).
 
@@ -92,7 +92,7 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Stay centered: make sure to take care of yourself.
 
 ## Principles
-![Principles](../images/book_principles.jpg)
+![Principles](../images/book_principles.jpeg)
 
   - Write down your principles and clarify them. What do you want? What is true? What should you do to achieve 1 in light of 2.
   - Systemize decision making with algorithms.
@@ -104,7 +104,7 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Meritocracy requires that: people put their honest thoughts on the table; have thoughtful disagreements; abide by idea-merid ways of getting past disagreements.
 
 ## Extreme Ownership & The dichotomy of leadership
-![Extreme Ownership](../images/book_extreme_ownership.jpg)
+![Extreme Ownership](../images/book_extreme_ownership.jpeg)
 
   - Take ownership: if things go wrong do not deflect; if an underperformer drags the team down, leader must resolve; leadership is contagious.
   - No bad teams, just bad leaders. 
@@ -125,13 +125,13 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Be aggressive but not reckless.
 
 ## Start with Why
-![Start with why](../images/book_start_with_why.jpg)
+![Start with why](../images/book_start_with_why.jpeg)
   
   - People don't buy WHAT you do. They buy WHY.
   - Great leaders start their conversations with WHY, then HOW, then WHAT.
 
 ## Leaders eat last
-![Leaders eat last](../images/book_leaders_eat_last.jpg)
+![Leaders eat last](../images/book_leaders_eat_last.jpeg)
 
   - A team can only effectively face external threats when there are no internal threats (*See team of teams, loonshots*)
   - Leaders need to protect the tribe.
@@ -142,7 +142,7 @@ Radical Candor revolves around the idea of combining caring for people while als
   - Cortisol (stress) is a serotonin inhibitor. Therefore stress (by external factors, lack of control) makes you feel less grateful and caring about others.
 
 ## The 5 dysfunctions of a team
-![The 5 dysfunctions of a team](../images/book_5_dysfunctions.jpg)
+![The 5 dysfunctions of a team](../images/book_5_dysfunctions.jpeg)
 
   - Absence of trust
   - Fear of conflict
@@ -159,7 +159,7 @@ Upon reviewing my list of books, one can notice some common themes and threads. 
   - Vulnerability.
   - Purpose.
 
-Culture code is a great overview of the culture needed in a company to perform. Manager's path is a great overview from the PoV of the manager and touches a lot of those points. M
+Culture code is a great overview of the culture needed in a company to perform. Manager's path is a great overview from the PoV of the manager and touches a lot of those points. 
 
 # Other books
 Here's my list of other books I've enjoyed reading but I haven't had time to sit down and reflect on. Please feel free to reach out and ask me about any of those.
